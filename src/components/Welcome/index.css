@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.welcome-bg {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome-title {
+  color: #f0bb03;
+  font-size: 58px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+}
+
+.welcome-para {
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  margin-top: 0px;
+}
+
+.button-style {
+  background-color: #ffffff;
+  color: #1e293b;
+  border-width: 0px;
+  border-radius: 4px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: 'Bree Serif';
+  cursor: pointer;
+}
